@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/grafanadashboards",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Nicolas",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "firebase/php-jwt": "v6.4.0",
+    "paragonie/sodium_compat": "v1.21.1"
+  }
+}

@@ -1,0 +1,5 @@
+Name: grafanadashboards
+Version: 0.1.0
+
+Description: grafanadashboards
+ This module provides the ability to access Grafana dashboards directly from IcingaWeb2.
